@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer In Training
 -----------------------------
 
-I decided to do something I'm passionate about.<br/>I'm Currently enrolled in a Bootcamp<br/>at UTK for Software Engineering
+I decided to do something I'm passionate about.<br/>I'm Currently enrolled in a Bootcamp<br/>at Quickstart through UTK for Software Engineering
 
 *   🌍  I'm based in Rutledge, Tennessee
 *   ✉️  You can contact me at [kevin5238600704@gmail.com](mailto:kevin5238600704@gmail.com)
